@@ -52,7 +52,8 @@ Handles ride pickups, driver assignment, deliveries, and route calculations on a
 2. **Follow the on-screen menu** to:
    - Register new riders or drivers  
    - Request a ride or delivery  
-   - View trip history and logs  
+   - View trip history and logs
+     
 3. **Check output files** in the project root for persistence.
 
 ---
@@ -66,7 +67,6 @@ Contributions are welcome! Please:
 ---
 
 ## License
-\`\`\`
 MIT License
 
 Copyright (c) 2025 Sahib Ahluwalia
@@ -88,7 +88,6 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
 DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, 
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR 
 OTHER DEALINGS IN THE SOFTWARE.
-\`\`\`
 
 ---
 
