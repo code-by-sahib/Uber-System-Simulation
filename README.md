@@ -52,7 +52,8 @@ Handles ride pickups, driver assignment, deliveries, and route calculations on a
 2. **Follow the on-screen menu** to:
    - Register new riders or drivers  
    - Request a ride or delivery  
-   - View trip history and logs  
+   - View trip history and logs
+       
 3. **Check output files** in the project root for persistence.
 
 ---
