@@ -95,5 +95,4 @@ OTHER DEALINGS IN THE SOFTWARE.
 - Developed as the final assignment for CPS209: Computer Science II at Toronto Metropolitan University.
 - Inspired by real-world ride-sharing platforms to model core system interactions.
 ## Contact
-For questions or feedback, please open an issue or reach out via e-mail:  
-sahib.ahluwalia@torontomu.ca
+For questions or feedback, please open an issue or reach out via e-mail: sahib.ahluwalia@torontomu.ca
